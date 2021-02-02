@@ -12,3 +12,8 @@
 .app{
   background-color: #fafafa;
 }
+
+.app_signUp{
+  display: flex;
+  flex-direction: column;
+}
