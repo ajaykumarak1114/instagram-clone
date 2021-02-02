@@ -7,6 +7,12 @@
   background-color: white;
   padding: 20px;
   border-bottom: 1px solid lightgray;
+  display: flex;
+  justify-content: space-between;
+}
+
+.app_headerImage{
+  object-fit: contain;
 }
 
 .app{
