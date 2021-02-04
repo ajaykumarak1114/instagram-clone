@@ -181,7 +181,6 @@ function App() {
           </div>
         )}
       </div>
-      <h1>Instagram clone</h1>
 
       {posts.map(({ id, post }) => (
         <Post
